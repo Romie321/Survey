@@ -1,0 +1,78 @@
+<!Doctype html>
+<html>
+
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Videogame Console Survey</title>
+  </head>
+
+  <body>
+    <h1 id="title">Videogame console Survey Form</h1>
+
+    <p id="description">
+      Thanks for taking the time to let us know about the type of videogame consoles you own.
+    </p>
+
+    <form id="survey-form">
+      <label for="name" id="name-label" class="name">Name</label><br>
+      <input id="name" type="text" placeholder="Enter name" name="name" required><br>
+
+      <label for="email" id="email-label" class="email">Email</label><br>
+      <input id="email" type="email" name="email" placeholder="Enter Email" required><br>
+
+      <label for="number" id="number-label" class="number">Age</label><br>
+      <input id="number" type="number" name="age" placeholder="Enter age" min="18" max="100"  required><br><br>
+
+      <p><b>Which console do you own.</b></p>
+      <label for="switch">
+        <input id="switch" type="radio" name="console" value="switch">Nintendo Switch
+      </label><br>
+      <label for="Playstation">
+        <input id="playstation" type="radio" name="console" value="playstation" >Playstation 5
+      </label><br>
+      <label for="xbox">
+        <input id="xbox" type="radio" name="console" value="xbox" >Xbox Series X or S
+      </label><br><br>
+
+      <p><b>What type best describes your gaming habits?</b></p>
+      <select id="dropdown">
+        <option disabled selected>Choose type<option>
+        <option>Hardcore Gamer</option>
+        <option>Moderate Gamer</option>
+        <option>Casual Gamer</option> 
+      </select><br><br>
+
+      <p><b>What do you look for when buying a gaming console?</b></p>
+        <label for="price">
+          <input id="price" type="checkbox" name="buying" value="price">Pricing
+        </label><br>
+        <label for="specs">
+          <input id="specs" type="checkbox" name="buying" value="specs">Console Specs
+        </label><br>
+        <label for="games">
+          <input id="games" type="checkbox" name="buying" value="games">Playable Games
+        </label><br>
+        <label for="design">
+          <input id="design" type="checkbox" name="buying" value="design">Design
+        </label><br>
+        <label for="features">
+          <input id="features" type="checkbox" name="buying" value="features">Features
+          </label><br>
+        <label for="services">
+          <input id="services" type="checkbox" name="buying" value="services">Online Services
+        </label><br>
+        <label for="controller">
+          <input id="controller" type="checkbox" name="buying" value="controller">Controllers
+        </label><br>
+        <label for="ecosystem">
+          <input id="ecosystem" type="checkbox" name="buying" value="ecosystem">Ecosystem
+        </label><br><br>
+
+    <p><b>Please leave any comments you may have on this subject.</b></p>
+    <textarea id="comments" name="comments" row="15" cols="30" placeholder="Enter comments">
+    </textarea><br><br>
+
+    <button type="submit" id="submit">Submit</button>
+
+</form>
+</html>
