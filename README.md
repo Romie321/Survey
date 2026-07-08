@@ -1,12 +1,12 @@
-* 🎮 Videogame Console Survey
+# 🎮 Videogame Console Survey
 A fun, responsive survey form built to collect user opinions about videogame consoles. This project focuses on clean layout, accessible form design, and a themed visual experience using a full‑screen background image.
 
-** 📌 Project Overview
+## 📌 Project Overview
 This survey form allows users to share their preferences, habits, and opinions about videogame consoles. It includes a variety of input types—text fields, number inputs, dropdowns, radio buttons, checkboxes, and a comment section—organized in a simple, readable layout.
 
 The goal of this project was to practice building structured forms, improve accessibility, and create a visually engaging design that feels connected to the gaming theme.
 
-**🧰 Features
+## 🧰 Features
 Fully responsive layout
 
 - Themed background image
@@ -21,7 +21,7 @@ Fully responsive layout
 
 - Simple, modern styling
 
-** 🖥️ Technologies Used
+## 🖥️ Technologies Used
 - HTML5
 
 - CSS3
@@ -32,7 +32,7 @@ Fully responsive layout
 You can view the project here:
 https://romie321.github.io/Survey/  
 
-** 📂 How to Run Locally
+## 📂 How to Run Locally
 Clone the repository:
 
 bash
@@ -41,7 +41,7 @@ Open the project folder.
 
 Open index.html in your browser.
 
-** 🔧 Future Improvements
+## 🔧 Future Improvements
 - Add form validation
 
 - Add animations or transitions
@@ -50,7 +50,7 @@ Open index.html in your browser.
 
 - Add a results page or confirmation message
 
-** 👤 Author
+## 👤 Author
 Ramiro Aguilera  
 Software & Web Developer
 Always learning, always building.
