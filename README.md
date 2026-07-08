@@ -1,48 +1,56 @@
-# 🎮 Video Game Survey Form
-A responsive survey form built with HTML and CSS. This project collects user input about video game preferences and was created as part of my front‑end development practice.
+* 🎮 Videogame Console Survey
+A fun, responsive survey form built to collect user opinions about videogame consoles. This project focuses on clean layout, accessible form design, and a themed visual experience using a full‑screen background image.
 
-## 🧠 What This Project Is
-- A clean, simple survey form themed around video games
+** 📌 Project Overview
+This survey form allows users to share their preferences, habits, and opinions about videogame consoles. It includes a variety of input types—text fields, number inputs, dropdowns, radio buttons, checkboxes, and a comment section—organized in a simple, readable layout.
 
-- Built to practice form structure, labels, inputs, and accessibility
+The goal of this project was to practice building structured forms, improve accessibility, and create a visually engaging design that feels connected to the gaming theme.
 
-- Uses semantic HTML and organized CSS
+**🧰 Features
+Fully responsive layout
 
-- Designed to be readable and user‑friendly
+- Themed background image
 
-## 🛠️ Tech Used
-- HTML5 — form structure and content
+- Centered headline and description
 
-- CSS3 — layout, styling, and spacing
+- Multiple input types (text, number, dropdown, radio, checkbox, textarea)
 
-## 📂 Files in This Repo
-- index.html — main survey form
+- Clean, readable form structure
 
-- style.css — styling for layout and design
+- Accessible labels and input organization
 
-- README.md — project documentation
+- Simple, modern styling
 
-- LICENSE — MIT License
+** 🖥️ Technologies Used
+- HTML5
 
-## 🎯 Purpose of This Project
-This project helped me practice:
+- CSS3
 
-- Building accessible HTML forms
+- Responsive design techniques
 
-- Using labels, inputs, selects, and text areas correctly
+** 🚀 Live Demo
+You can view the project here:
+https://romie321.github.io/Survey/  
 
-- Structuring a clean layout with CSS
+** 📂 How to Run Locally
+Clone the repository:
 
-- Improving consistency across my portfolio projects
+bash
+git clone https://github.com/Romie321/Survey.git
+Open the project folder.
 
-## 🚀 Future Improvements (Optional)
-- Add responsive design for mobile
+Open index.html in your browser.
 
-- Add form validation with JavaScript
+** 🔧 Future Improvements
+- Add form validation
 
-- Add a confirmation message or success screen
+- Add animations or transitions
 
-- Add icons or subtle visual elements to enhance the theme
+- Improve accessibility with ARIA attributes
 
-## 📜 License
-This project is licensed under the MIT License.
+- Add a results page or confirmation message
+
+** 👤 Author
+Ramiro Aguilera  
+Software & Web Developer
+Always learning, always building.
