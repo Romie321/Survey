@@ -19,11 +19,25 @@ body {
 h1 {
   text-align: center;
   text-decoration: underline;
+  color: #18d9f7;
 }
 
 #description {
   text-align: center;
   font-family: "hammersmith one";
+  color: #18d9f7;
+}
+
+h1,
+#description {
+  background: rgb(56, 56, 58);
+  padding: 10px 20px;
+  border-radius: 8px;
+  display: block;
+  color: #18d9f7;
+  width: fit-content;
+  text-align: center;
+  margin: 0 auto;
 }
 
 #submit {
