@@ -28,7 +28,7 @@ Fully responsive layout
 
 - Responsive design techniques
 
-** 🚀 Live Demo
+## 🚀 Live Demo
 You can view the project here:
 https://romie321.github.io/Survey/  
 
